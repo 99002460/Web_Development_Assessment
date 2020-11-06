@@ -1,0 +1,15 @@
+[
+    {
+        "name":"RR Hotel",
+        "city":"Bangalore",
+        "type":"veg",
+        "cuisine":["indian"]
+    },
+    {
+        "name":"MTR Hotel",
+        "city":"Mumbai",
+        "type":"nonveg",
+        "cuisine":["italian"]
+
+    }
+]
